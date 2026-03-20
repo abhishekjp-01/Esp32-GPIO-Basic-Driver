@@ -2,6 +2,8 @@
 #define GPIO_H
 
 #include <stdint.h>
+#define HIGH 1
+#define LOW 0
 
 /* ===================== GPIO MODES ===================== */
 typedef enum {
