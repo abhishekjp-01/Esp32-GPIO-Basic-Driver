@@ -7,3 +7,7 @@ This project implements a basic GPIO driver for the Esp32 using direct register-
 - GPIO write (HIGH/LOW)
 - GPIO read
 - GPIO toggle
+
+## Project Structure
+- inc/ - Header files (API)
+- src/ - Source files (Implementation)
