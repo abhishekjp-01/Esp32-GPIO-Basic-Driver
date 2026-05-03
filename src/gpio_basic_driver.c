@@ -9,8 +9,6 @@
  * 	GPIO write (set/clear)
  * 	GPIO read
  * 	GPIO toggle
- *  GPIO Internal Pull-up/Pull-down
- *
  */
 
 
