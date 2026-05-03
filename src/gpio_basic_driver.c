@@ -1,5 +1,5 @@
 /*
- * @file gpio.c
+ * @file gpio_basic_driver.c
  * 
  * This file contains the implementation of basic GPIO functionalities
  * using direct register access based on ESP32 Technical Reference Manual.
@@ -13,7 +13,7 @@
  */
 
 
-#include "gpio.h"
+#include "gpio_basic_driver.h"
 
 /* ===================== MACROS & REGISTER DEFINITIONS ===================== */
 
